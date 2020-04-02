@@ -24,6 +24,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Blackbaud|Cancelled|Open full time offers are also cancelled|
 |Boston Scientific|Cancelled|Cancelled all internships and co-ops for all of 2020.|
 |Custom Ink|Cancelled|Rescinded all internships and full time offers!
+|Delta Airline| Rescinded offers
 |Echostar|Cancelled||
 |Funding Circle|Cancelled||
 |FX|Cancelled||
