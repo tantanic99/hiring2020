@@ -18,6 +18,7 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |23andMe|Cancelled||
 |Alaska Airlines|Cancelled||
 |Amtrak|Cancelled||
+|American Airlines|Cancelled| Rescinded Most Offers|| 
 |Anaplan|Cancelled|MBA internship rescinded. Need confirmation on this.|
 |Applied Medical|Cancelled||
 |Arista|Cancelled||
@@ -69,7 +70,6 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |Nordstrom |Cancelled|Cancelled all technology internships.|
 |OpenTable|Cancelled||
 |Paycom|Cancelled|Hiring freeze until at least July|
-|Primer|Cancelled||
 |PROCEPT BioRobotics|Cancelled||
 |REI|Cancelled|"After careful consideration of business needs, we decided to put a hold on this position at this time."|
 |Rent The Runway|Cancelled||
@@ -114,7 +114,6 @@ You can also join our group on [Facebook](https://www.facebook.com/groups/hiring
 |AlixPartners|Not Cancelled|Deciding on in person vs virtual towards end of April|
 |Amazon|Not Cancelled||Just sent out a survey to determine the possibility of on-site or WFH|
 |Amazon Robotics|Not Cancelled|Not currently anticipating any disruption to the normally scheduled internship program this summer. For now suggested that we plan on returning to Boston for the summer.|
-|American Airlines|Not Cancelled|Hiring Freeze. Only certain positions cancelled. Needs confirmation.|
 |American Express|Not Cancelled|Hiring Freeze. Certain positions being cancelled. Waiting for more info.|
 |Aon|Not Cancelled||Remote possible. Dates and logistics might change.|
 |Apple|Not Cancelled|Starting remotely for now|
