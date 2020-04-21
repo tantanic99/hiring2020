@@ -58,6 +58,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Arthrex|❌||
 |AXS|❌ ||
 |Baker Hughes|❌ ||
+|Bath & Body works|❌||
 |Best Buy|❌ ||
 |Big Spaceship|❌ ||
 |Blackbaud|❌ |Open full time offers are also cancelled|
@@ -91,7 +92,9 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |DNAnexus|❌ ||
 |EF Education First|❌|Multiple offers rescinded. Need to verify if all internship roles are cancelled||
 |EVERFI|❌ ||
+|Expedia|❌||
 |ExtraHop|❌||
+|Flint Hill Resources|❌||
 |Flipp|❌ | Offers Rescinded|
 |Funding Circle|❌ ||
 |FX|❌ ||
@@ -106,11 +109,12 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |GoCanvas|❌ ||
 |Group Nine Media|❌ ||
 |Groupon|❌ ||
-|Guideline|❌||
+|Guideline|❌|| 
 |Halff Associates|❌||
 |Halliburton|❌|Interns offered half of the pay for the summer as stipend.|
 |HARMAN International|❌|Cancelled LEAP programs for new grads too.|
 |Hawaiian Airlines|❌ |Internships and full time hirings cancelled.|
+|Harrell- Fish Incorporated (HFI)|❌||
 |HCA Healthcare|❌ ||
 |Helen of Troy|❌||
 |Hill Holliday|❌ ||
@@ -128,6 +132,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Kabbage|❌||
 |Kaiser Permanente|❌||
 |Kayak|❌ ||
+|KBX Logistics|❌||
 |Kearney|❌ |MBA. London - Cancelled. Chicago - Virtual.|
 |Keen|❌ ||
 |Kin and Carta|❌ ||
@@ -179,6 +184,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Pearson VUE|❌||
 |Paycom|❌ |Hiring freeze until at least July|
 |PluralSight|❌||
+|Pratt and Whitney|❌||
 |Primer|❌ ||
 |PROCEPT BioRobotics|❌||
 |PSB|❌ |Need confirmation|
@@ -190,6 +196,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Regeneron Pharmaceuticals|❌|Wet lab positions being cancelled. Dry lab likely to be remote.|
 |REI|❌ |"After careful consideration of business needs, we decided to put a hold on this position at this time."|
 |Rent The Runway|❌ ||
+|Repairpal|❌||
 |R/GA|❌ ||
 |Roku|❌ ||
 |Saatchi & Saatchi|❌ ||
@@ -237,6 +244,7 @@ If you are on mobile, click "View all of README.md" below to expand the list.
 |Uponor|❌||
 |Urban Outfitters (URBN)|❌||
 |USTA 2020 D&I|❌|| 
+|Vans|❌||
 |Viasat|❌|Cancelled|
 |Virgin Orbit|❌|Cancelled the whole program|
 |VMLY&R|❌||
