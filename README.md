@@ -150,6 +150,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Continental|❌||
 |Crayola|❌||
 |Cruise Automation|❌ |Rescinded all internship offers.|
+|Cummins|Now Cancelled||
 |Custom Ink|❌|Rescinded all internships and full time offers!|
 |DAAD-WISE|❌||
 |Dassault Systems|❌|Rescinding offers in Waltham MA.|
@@ -166,6 +167,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |DNAnexus|❌||
 |Draper Laboratory|❌|Internship program cancelled. Offers rescinded.|
 |DriveTime|❌|Scaling back summer internship program, certain departments cancelled (i.e. marketing/sales).|
+|Dropbox|❌|| Now cancelled||
 |Echostar|❌||
 |EF Education First|❌|Multiple offers rescinded. Need to verify if all internship roles are cancelled|
 |EVERFI|❌||
@@ -275,6 +277,7 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Owens Corning|❌ ||
 |Paccar|❌||
 |Pariveda Solutions|❌||
+|Panasonic|❌||
 |Paycom|❌|Hiring freeze until at least July|
 |PBS|❌||
 |Pearson VUE|❌||
@@ -493,7 +496,6 @@ If you're a **recruiter or a company representative**, we encourage you to verif
 |Dolby|✅|PM role cancelled. No info about other roles.|
 |Dow|✅|Remote.|
 |DraftKings|✅|Will be in touch with more details|
-|Dropbox|✅||
 |Ebay|✅|Going virtual.|
 |edX|✅||
 |Elanco|✅|Virtual. Reduced from 12 weeks to 8 weeks.|
